@@ -1,4 +1,4 @@
-package com.example.testProj;
+package com.example.testProj2;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
